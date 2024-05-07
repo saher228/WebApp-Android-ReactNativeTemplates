@@ -1,0 +1,8 @@
+{
+  "name": "CRM | INZEWORLD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "46dce5ae"
+}
